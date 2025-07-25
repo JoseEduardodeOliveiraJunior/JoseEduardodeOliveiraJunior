@@ -1,7 +1,7 @@
 ## Ola! Meu nome é José Eduardo e sou programador 👋
 ### Cursando ADS na faculdade SENAI.
 
-![José Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEduardodeOliveiraJunior&show_icons=true&theme=radical)
+![José Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEduardodeOliveiraJunior&show_icons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
