@@ -1,4 +1,4 @@
-## Ola! Meu nome é José Eduardo e sou programador 👋
+## Ola! Meu nome é José Eduardo e sou Eng.Dados 👋
 ### Cursando ADS na faculdade SENAI.
 
 ![José Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEduardodeOliveiraJunior&show_icons=true)
